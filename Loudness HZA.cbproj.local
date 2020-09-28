@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/19 12:19:07.000.731,=C:\Users\hensz\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/09/19 12:19:07.000.128,=C:\Users\hensz\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/09/19 12:20:22.000.141,C:\Users\hensz\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\hensz\Desktop\loudness\LoudnessUnit.cpp</Transaction>
+    <Transaction>2020/09/19 12:20:22.000.141,C:\Users\hensz\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\hensz\Desktop\loudness\LoudnessUnit.dfm</Transaction>
+    <Transaction>2020/09/19 12:20:22.000.141,C:\Users\hensz\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\hensz\Desktop\loudness\LoudnessUnit.h</Transaction>
+    <Transaction>2020/09/19 12:20:27.000.552,C:\Users\hensz\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\hensz\Desktop\loudness\Loudness.h</Transaction>
+    <Transaction>2020/09/19 12:20:49.000.432,C:\Users\hensz\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\hensz\Desktop\loudness\Loudness HZA.cbproj</Transaction>
+    <Transaction>2020/09/21 11:28:13.000.119,=C:\Users\hensz\Desktop\loudness\libsndfile-1.lib</Transaction>
+  </Transactions>
+</BorlandProject>
